@@ -8,6 +8,7 @@ UC Berkeley Police Department Fall 2024
 - Transformed SafeWalk’s data management system by shifting from Excel to a more robust MySQL database, streamlining
 walk tracking, security check records and resource allocation.
 - Created a comprehensive Enhanced Entity-Relationship (EER) diagram to effectively model the database structure, streamline entity relationships, and improve data integrity.
+<a href="https://app.diagrams.net/#G1EyMGKbS_j85kPyIBEMT0kpZLHxT3anEP#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D">Link Text</a>
 - Developed and optimized MySQL queries to automate reporting processes, reducing manual analysis time by 40% and
 providing timely insights for decision making.
 - Created dynamic dashboards, visualising SafeWalk’s key metrics and enabling data driven decision making.
