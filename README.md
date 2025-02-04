@@ -23,7 +23,7 @@ international shipping by 15%.
 reducing variances and let to improved inventory tracking
 
 Her Fight is Our Fight Summer 2022
-- <a href="[https://www.example.com](https://www.icloud.com/iclouddrive/066PowQPZgMy6ruSTCX-xWCtg#Screen_Shot_2025-02-04_at_2.33.06_PM)">Designed</a> a data-driven pH indicator for early cervical cancer detection, increasing detection accuracy by 45% through
+- <a href="https://www.icloud.com/iclouddrive/066PowQPZgMy6ruSTCX-xWCtg#Screen_Shot_2025-02-04_at_2.33.06_PM">Designed</a> a data-driven pH indicator for early cervical cancer detection, increasing detection accuracy by 45% through
 rigorous data analysis and iterative testing.
 - Led research identifying brown, alkaline vaginal fluid as a key cervical cancer symptom, driving product innovation for
 early detection.
