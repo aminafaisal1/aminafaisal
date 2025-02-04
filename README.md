@@ -35,6 +35,6 @@ disease
 
 ### Get In Touch
 - **Email:** aminafaisal@berkeley.edu
-- **<a href="https://www.linkedin.com/in/amina-faisal-219079274/">Link Text</a>**
+- **<a href="https://www.linkedin.com/in/amina-faisal-219079274/">LinkedIn</a>**
 
 Feel free to explore my projects and connect with me if you’d like to collaborate or learn more about my work!
