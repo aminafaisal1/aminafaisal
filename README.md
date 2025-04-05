@@ -12,7 +12,7 @@ walk tracking, security check records and resource allocation.
 providing timely insights for decision making.
 - Created dynamic dashboards, visualising SafeWalk’s key metrics and enabling data driven decision making.
 
-Atlantic Cocoa Company, Inc Summer & Fall 2023
+Ecom Atlantic, Inc Summer & Fall 2023
 - Developed Python scripts to automate data analysis, processing large datasets to assess quantity of shipments, effectively
 reducing data discrepancies by 25%.
 - Streamlining a reporting tool for the analysis of forward contract costings versus actual incurred costs enabling better
@@ -31,6 +31,35 @@ early detection.
 disease
 - Conducted extensive data gathering and field testing, optimising product efficacy by up to 50%.
 
+You got it! Here’s a more detailed, professional version of your housing market project description — perfect for a **GitHub README** or personal website project showcase. This version explains your approach, methodology, and impact clearly and with technical depth, while staying accessible and impressive to recruiters or collaborators.
+
+---
+
+Housing Market Price Prediction Project
+
+This project focuses on building predictive models to estimate housing prices using real-world residential property data. The dataset includes both quantitative and qualitative features such as area, number of bedrooms and bathrooms, number of stories, parking spaces, proximity to main roads, and furnishing status. The primary objective was to explore, model, and interpret the key drivers of housing prices using various regression and machine learning techniques.
+
+
+- Data Cleaning and Preprocessing:
+  - Converted binary categorical variables (e.g., `yes`/`no`) to numerical format (1/0)  
+  - Filled missing numerical values with 0 and categorical values with mode  
+  - Removed outliers using the Interquartile Range (IQR) method to improve model stability
+
+- Exploratory Data Analysis (EDA):  
+  - Analyzed distributions, correlations, and trends in features such as area, number of rooms, and stories  
+  - Visualized relationships between features and target variable (price) using scatter plots, box plots, and pairplots  
+  - Generated second-degree polynomial features to capture non-linear interactions among variables
+
+- Model Development:  
+  - Ordinary Least Squares (OLS) Regression: Built a baseline linear model and evaluated using MSE, RMSE, and R²  
+  - Ridge Regression: Implemented L2 regularization with cross-validation to prevent overfitting and optimize alpha  
+  - LASSO Regression: Applied L1 regularization to induce sparsity, removing non-essential features  
+  - Nadaraya-Watson Estimator: Built a non-parametric kernel regression model to capture complex, nonlinear patterns in the data
+
+- Model Evaluation and Optimization:  
+  - Performed 5-fold cross-validation to ensure model robustness and reduce variance  
+  - Conducted residual analysis to assess model fit and detect patterns in prediction errors  
+  - Compared models based on RMSE, MSE, and R² on both training and test sets
 
 
 ### Get In Touch
