@@ -31,10 +31,6 @@ early detection.
 disease
 - Conducted extensive data gathering and field testing, optimising product efficacy by up to 50%.
 
-You got it! Here’s a more detailed, professional version of your housing market project description — perfect for a **GitHub README** or personal website project showcase. This version explains your approach, methodology, and impact clearly and with technical depth, while staying accessible and impressive to recruiters or collaborators.
-
----
-
 Housing Market Price Prediction Project
 
 This project focuses on building predictive models to estimate housing prices using real-world residential property data. The dataset includes both quantitative and qualitative features such as area, number of bedrooms and bathrooms, number of stories, parking spaces, proximity to main roads, and furnishing status. The primary objective was to explore, model, and interpret the key drivers of housing prices using various regression and machine learning techniques.
