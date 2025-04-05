@@ -36,12 +36,13 @@ disease
 - Led a machine learning project focused on building a binary classifier using the SpamAssassin dataset, a benchmark dataset for identifying spam (unsolicited) vs. ham (legitimate) emails.  
 - Applied supervised learning techniques to detect malicious content and reduce cybersecurity risks associated with email communications.
 - Designed and fine-tuned a classification pipeline including preprocessing, feature extraction (e.g., term frequency-inverse document frequency), and vectorization for natural language data.
-- Evaluated multiple ML models** (Naive Bayes, Logistic Regression, SVM) to balance precision and recall, selecting the model that minimized both false positives and false negatives.
+- Evaluated multiple ML models (Naive Bayes, Logistic Regression, SVM) to balance precision and recall, selecting the model that minimized both false positives and false negatives.
 - Optimized the classifier's threshold and hyperparameters to reduce the risk of misclassifying legitimate emails (ham) as spam and vice versa, emphasizing real-world implications for data protection and privacy.
 - Led team coordination through regular check-ins, assigning tasks, conducting error analysis, and presenting final findings with clear, visual performance metrics (ROC curves, confusion matrices).
 - Gained hands-on experience in risk management and cybersecurity, learning how poorly tuned models could lead to data breaches, phishing attacks, or financial damage in a real-world email system.
 
 ## Housing Market Price Prediction Project
+Link to project: <a href="https://github.com/aminafaisal1/IEORPROJECT165/blob/main/project165%20(12).ipynb">Here</a>
 
 This project focuses on building predictive models to estimate housing prices using real-world residential property data. The dataset includes both quantitative and qualitative features such as area, number of bedrooms and bathrooms, number of stories, parking spaces, proximity to main roads, and furnishing status. The primary objective was to explore, model, and interpret the key drivers of housing prices using various regression and machine learning techniques.
 
