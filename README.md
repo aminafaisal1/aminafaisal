@@ -32,6 +32,7 @@ disease
 - Conducted extensive data gathering and field testing, optimising product efficacy by up to 50%.
 
 ## Spam-Ham Email Classifier
+<a href="https://www.icloud.com/iclouddrive/07c-h8ozNSZIN6WRdaPAvOnbQ#projB2">Part of Project</a>
 
 - Led a machine learning project focused on building a binary classifier using the SpamAssassin dataset, a benchmark dataset for identifying spam (unsolicited) vs. ham (legitimate) emails.  
 - Applied supervised learning techniques to detect malicious content and reduce cybersecurity risks associated with email communications.
