@@ -1,7 +1,9 @@
 # Amina Faisal
 
 ## About Me 
-I'm passionate about learning new technologies, and creating projects that make a difference. I love designing and optimizing databases, and I'm always eager to dive into SQL projects. Whether I'm building a new database system from scratch or refining an existing one, I thrive on the challenge of writing efficient queries and ensuring data integrity. My enthusiasm for SQL and database management drives me to explore innovative solutions that can handle large data sets and streamline data operations. I also enjoy exploring data analysis, and other tech-related fields. Whether it's through personal projects or collaboration, I'm always looking to improve my skills and take on new challenges.
+I'm passionate about combining data science with financial insight to solve real-world business problems. I specialize in designing and optimizing relational databases, building valuation models, and extracting meaningful insights from complex datasets. With hands-on experience in SQL, MySQL Workbench, and forecasting tools, I’ve built systems that support decision-making — from pricing and cost analysis to demand forecasting and financial reporting.
+
+I thrive on developing efficient queries that power valuation models, support due diligence, and enable scenario testing at scale. Whether I’m building a portfolio forecasting tool or engineering a cost analysis system, I bring a rigorous, analytical approach with a strong understanding of finance and data integrity. My work bridges the gap between technical execution and strategic impact
 
 ## Experience
 ## UC Berkeley Police Department Fall 2024
